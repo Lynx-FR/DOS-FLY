@@ -1,5 +1,7 @@
-The notation of a version follows this pattern XX.XX.X (Alpha | Beta)
+# How does the version notation works ?
 
+
+The notation of a version follows this pattern XX.XX.X (Alpha | Beta)
 
 The 2 first digits refer to the year where the release was published. Example: 25 = 2025
 
