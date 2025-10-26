@@ -7,6 +7,6 @@ There will be NO precompiled version of the program, you will have to download t
 
 Always use this program on your own server, if you use this program on a unauthorized server ; you could face legal trouble and fine, use it at your OWN risk.
 
-Note that the program is written in Linux for Linux, but in theory it should also work on ; FreeBSD NetBSD macOS and Windows. However i do NOT guarantee it will work, so do not come and ask why it don't work on your system.
+Note that the program is written in Linux (Fedora) for Linux, but in theory it should also work on ; others Linux distributions such as Debian etc FreeBSD NetBSD macOS and Windows. However i do NOT guarantee it will work, so do not come and ask why it don't work on your system.
 
 Actual version : 1.0 Alpha 1 codename "mouche" created on Saturday 25 of October 2025
