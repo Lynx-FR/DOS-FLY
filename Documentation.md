@@ -20,3 +20,12 @@ The 2 first digits refer to the year where the release was published. Example: 2
 The 2 digits after refer to the month where the release was published. Example: 10 = October
 
 And the last digit refers to the version of the program. Example: 1 = Version 1
+
+
+# 3 What are the officially tested platforms ?
+
+By the time i write this there are 3 platforms officially tested these are:
+
+* Debian GNU/Linux testing (Forky) D-FLY is developed on it
+* Debian GNU/Linux 11
+* Ubuntu
