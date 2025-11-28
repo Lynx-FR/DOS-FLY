@@ -1,7 +1,7 @@
 # DOS-FLY
 DOS-FLY (Denial Of Service Free Light & Yours), is a lightweight open source Denial Of Service program written in C++, you can look, change, and redistribute the code freely.
 
-**DISCLAMER** 
+**DISCLAIMER** 
 
 There will be NO precompiled version of the program, you will have to download the source code and compile it yourself.
 
