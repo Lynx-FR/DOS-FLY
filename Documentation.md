@@ -28,8 +28,4 @@ And the last digit refers to fixes done in the program. Example: 1.1.2 = Version
 
 By the time i write this there are 5 platforms officially tested these are:
 
-* Debian GNU/Linux testing (Forky) D-FLY was developed on it
-* Debian GNU/Linux 11
-* Ubuntu
-* Fedora Linux 42/43
 * macOS 26 D-FLY is now developed on it
