@@ -1,6 +1,6 @@
-## Official D-FLY Documentation 
+# Official D-FLY Documentation 
 
-# 1 How to compile the program ?
+## 1 How to compile the program ?
 
 * On Linux you can use g++ available with GCC or clang++ available with Clang. Personally, I use clang++ because it's faster and i prefer it for debugging
 
@@ -11,7 +11,7 @@
 * On Windows you can use Visual Studio
 
 
-# 2 How does the notation system works ?
+## 2 How does the notation system works ?
 
 The notation of a version follows the semantic versioning pattern X.X.X (Alpha | Beta)
 
@@ -24,8 +24,10 @@ And the last digit refers to fixes done in the program. Example: 1.1.2 = Version
 (idk how this works i think its like that but im not sure)
 
 
-# 3 What are the officially tested platforms ?
+## 3 What are the officially tested platforms ?
 
-By the time i write this there are 5 platforms officially tested these are:
+By the time i write this there are 3 platforms officially tested these are:
 
-* macOS 26 D-FLY is now developed on it
+* macOS 26 D-FLY was developed on it
+* Ubuntu 24.04 LTS
+* Debian GNU/Linux 13
